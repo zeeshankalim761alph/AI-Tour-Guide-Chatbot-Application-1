@@ -1,0 +1,5 @@
+{
+  "name": "WanderLust AI Guide",
+  "description": "An intelligent, travel-themed chatbot powered by Google Gemini 2.5. It helps users plan trips, discover attractions, and create itineraries with integrated Google Maps suggestions.",
+  "requestFramePermissions": []
+}
